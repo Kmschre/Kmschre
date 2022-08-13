@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kmschre
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning the basics! I'm expanding my knowledge of HTML,CSS and working on my unerstanding of JavaScript.
+- 🌱 I’m currently learning the basics! I'm expanding my knowledge of HTML,CSS and JavaScript.
 - 💞️ I’m looking to collaborate on any insights you have on my projects. As I am just started out I understand my projects are baseline at best, nothing but room to grow and keep improving! 
 - 📫 How to reach me Kristinaschre@gmail.com
 
